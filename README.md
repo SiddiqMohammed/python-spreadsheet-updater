@@ -20,6 +20,9 @@ Apart from the above mentioned libraries, you'll also need to have the API acces
 
 Get the json file from your API. This json file contains all your credentials that allow the API to connect and interact with your code. [pls don't be dumb like I was when I first started out and shared the credentials 🤦‍♀️]. I named my json file "creds"
 
+Create a new spreadsheet and name it and share it with the "client-ID" email that you recieve in the json file from the API
+
+
 
 If you want to create custom dialog boxes then I suggest you to learn to use pyqt5. It is a great tool that is in my opinion much better than the alternatives that I've come across.
 
