@@ -28,5 +28,3 @@ If you want to create custom dialog boxes then I suggest you to learn to use pyq
 
 LINKS TO HELP WITH REPLICATION OR INSTALLATION:
 
-Watch this for pyqt5 tutorial - https://www.youtube.com/watch?v=ksW59gYEl6Q
-watch this for setting up API & integrating python with spreadsheets - https://www.youtube.com/watch?v=cnPlKLEGR7E
