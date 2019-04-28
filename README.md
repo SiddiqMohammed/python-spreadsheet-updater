@@ -26,5 +26,3 @@ Create a new spreadsheet and name it and share it with the "client-ID" email tha
 
 If you want to create custom dialog boxes then I suggest you to learn to use pyqt5. It is a great tool that is in my opinion much better than the alternatives that I've come across.
 
-LINKS TO HELP WITH REPLICATION OR INSTALLATION:
-
