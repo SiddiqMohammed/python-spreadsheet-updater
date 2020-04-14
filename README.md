@@ -4,7 +4,7 @@ Using the google spreadsheets API, gspread library, and pyqt5, I've made a simpl
 A dialog box opens up and asks the user for the data that is supposed to be updated in the spreadsheet online. When the user writes the data and submits, the spreadsheet is updated automatically.
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the libraries.
 
 ```bash
 pip install gspread 
